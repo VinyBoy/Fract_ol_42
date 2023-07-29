@@ -4,17 +4,29 @@ How to use ?
 
 You need to download :
 The project with -> "git@github.com:VinyBoy/Fract_ol_42.git"
+
 The   Mlx   with -> "git clone https://github.com/42Paris/minilibx-linux.git"
+
 Rename the folder in -> mlx_linux "mv minilibx-linux mlx_linux"
+
 Compile tje project -> "make"
+
 exec with -> "./fractol Mandelbrot" or "./fractol Julia" or "./fractol Ship"
+
 You can use :
+
 With the mouse -> the scroll up and scroll down for the zoom of the fractal
+
 whith the keyboard :
+
 The arrow -> UP / DOWN / LEFT / RIGHT for the offset
+
 Press R -> for reset the fractal
+
 Press C -> for change the color set
+
 With the Julia fractal -> Press J for change the type of julia's fractal
+
 
 
 ![Screenshot from 2023-07-29 15-45-56](https://github.com/VinyBoy/Fract_ol_42/assets/55450138/e08e05f4-cd38-4406-9420-7eb65853669d)
